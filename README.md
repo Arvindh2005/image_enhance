@@ -28,10 +28,15 @@ It fuses the outputs of multiple specialized models to brighten dark regions, pr
 ## Project Structure
 
 ├── final_g.ipynb # Jupyter notebook (experiments & model analysis)
+
 ├── mass.py # Streamlit app for enhancement
+
 ├── real_mass.h5 # Trained model (low-light)
+
 ├── real_dream.h5 # Trained model (mid-light)
+
 ├── finalmass.h5 # Trained model (bright regions)
+
 └── README.md # Project documentation
 
 
